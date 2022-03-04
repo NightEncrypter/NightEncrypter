@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<h2 style="color:'yellow';"><hr>About me 🤵 </h2>
  <h3> I am a 👨‍🎓 student of Engineering </h3>
  & 
  <h3>I am always 😋 willingness to learn about new TECH'S</h3>
