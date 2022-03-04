@@ -10,6 +10,9 @@
 <a style="color:'green';">manasrathore2342@gmail.com</a>
 <p/>
 
+
+<h4>Fun Fact</h4>
+<h6>All Programmers are not always programmers, Firstly He/She is a 🐛 DEBUGGER and after run the 💻 program successfully ,That time Programmer's Comes from DEBUGGER's</h6>
 <h5>We are working as a FREELANCERS</h5>
 <p><a></a></p>
 <h3 align="left"><hr> Languages and Tools:</h3>
