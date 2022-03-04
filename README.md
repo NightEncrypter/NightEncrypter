@@ -3,7 +3,7 @@
 <h2 style="color:'yellow';"<hr>About me 🤵 </h2>
  <h3> I am a student of Engineering 👨‍🎓  </h3>
  & 
- <h3>I am always  willingness to learn 📚 about new TECH'S</h3>
+ <h3>I am always  willingness to learn 📚 about new TECH'S ⚙</h3>
  &
  <h3>My passion🚴‍♀️ is also towards the 💻 WEB & 📱 MOB TECHNOLOGIES </h3>
 <p>Contact me on :
