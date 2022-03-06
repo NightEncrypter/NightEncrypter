@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h2 style="color:'yellow';"<hr>About me 🤵 </h2>
- <span> I am a student of Engineering 👨‍🎓  </span>
+ <span style="display:block;"> I am a student of Engineering 👨‍🎓  </span>
  & 
  <span>I am always  willingness to learn 📚 about new TECH'S ⚙</span>
  &
