@@ -3,12 +3,12 @@
 <h2 style="color:'yellow';"<hr>About me 🤵 </h2>
  <p style="display:block;"> I am a student of Engineering 👨‍🎓  </p>
  & 
- <span>I am always  willingness to learn 📚 about new TECH'S ⚙</span>
+ <p>I am always  willingness to learn 📚 about new TECH'S ⚙</p>
  &
- <span>My passion🚴‍♀️ is also towards the 💻 WEB & 📱 MOB TECHNOLOGIES </span>
-<p>Contact me on :
+ <p>My passion🚴‍♀️ is also towards the 💻 WEB & 📱 MOB TECHNOLOGIES </p>
+<h5>Contact me on :
 <a style="color:'green';">manasrathore2342@gmail.com</a>
-<p/>
+<h5/>
 
 
 <h5>We are working as a FREELANCERS</h5>
